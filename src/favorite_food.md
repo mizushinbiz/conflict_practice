@@ -1,5 +1,5 @@
 # favorite food
 
 apple
-BEAN
-CHERRY
+banana
+cheese
